@@ -9,6 +9,6 @@ export class AppComponent {
   name = 'Angular ' + VERSION.major;
 
   constructor() {
-    console.log('hello world');
+    console.log('hello world 2');
   }
 }
